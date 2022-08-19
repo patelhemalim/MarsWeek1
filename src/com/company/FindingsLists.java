@@ -22,13 +22,13 @@ public class FindingsLists {
         rockList.add("smooth rock");
         rockList.add("not rock");
 
-        System.out.println("rockList");
+        System.out.println(rockList);
 
         System.out.println("Wait a second that last on is not a rock we need to delete that one from the list.");
 
         rockList.remove("not rock");
 
-        System.out.println("rockList");
+        System.out.println(rockList);
 
         System.out.println("Perfect");
 
