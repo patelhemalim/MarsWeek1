@@ -35,10 +35,9 @@ public class Mars<landing, Landing> {
 
         landing = landingCheck(100);
 
-        /*
+
         new GuessingGame();
         new MarsExpedition();
-        */
         new FindingsLists();
     }
 
